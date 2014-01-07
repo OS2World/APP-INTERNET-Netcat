@@ -1,0 +1,17 @@
+This is the OS/2 port for Netcat.
+
+As per its manpage, "Netcat is a simple Unix utility which reads and writes data across network
+connections, using TCP or UDP protocol."
+
+I just built up the executable program and placed it into the bin/ subdirectory of 
+this archive, together with the manpage source file and the RFCs accompanying it.
+
+If you want you can use the original source tree for compiling or modifying it.
+
+Please consider donating to Paul Smedley and giving user feedback to the OS/2 developers
+still working for this wonderful operating system...
+
+Have fun (Easter edition :) )
+Mentore Siesto
+Pisa, Italy
+mentore.siesto@alice.it
